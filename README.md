@@ -1,1 +1,1 @@
-# -2.45GHz
+# -2.45GHz microstrip antenna
