@@ -1,1 +1,2 @@
-# -2.45GHz microstrip antenna
+#中心频率为2.45GHz的微带天线
+使用ADS进行仿真设计
