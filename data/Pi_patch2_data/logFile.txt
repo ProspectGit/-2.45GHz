@@ -1,0 +1,1097 @@
+
+hpeesofsim (*) 572.shp Mar 28 2023, MINT version 5
+    (64-bit windows built: Tue Mar 28, 2023 23:58:00 +0000)
+
+
+***** Simulation started at Thu Jan 30 22:22:14 2025
+      Running on host: "LAPTOP-PUB0EK4L"
+      In Directory: "D:\Program Files (x86)\ADS2023\Insert_Patch_Antenna_wrk2\data"
+      Process ID: 12664
+
+
+OPTIM Optim1[1] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=(0->1200)
+
+SP Optim1[1].SP1[0] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=0  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #0:
+  CurrentEF: 0.244432738720391
+  Optimization variables:
+    TL4.L = 2.5e-03
+    TL5.L = 2.5e-03
+    TL6.L = 2.5e-03
+
+SP Optim1[1].SP1[20] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=20  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #20:
+  CurrentEF: 0.233595279575748
+  Optimization variables:
+    TL4.L = 2.610363489604908e-03
+    TL5.L = 2.406601829183015e-03
+    TL6.L = 2.430539092943864e-03
+
+SP Optim1[1].SP1[21] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=21  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #21:
+  CurrentEF: 0.225749841765934
+  Optimization variables:
+    TL4.L = 2.491159237429858e-03
+    TL5.L = 2.43518829734114e-03
+    TL6.L = 2.410889700549796e-03
+
+SP Optim1[1].SP1[32] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=32  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #32:
+  CurrentEF: 0.225591354502493
+  Optimization variables:
+    TL4.L = 2.444166526236444e-03
+    TL5.L = 2.446068373970066e-03
+    TL6.L = 2.401118605790123e-03
+
+SP Optim1[1].SP1[33] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=33  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #33:
+  CurrentEF: 0.225299749694243
+  Optimization variables:
+    TL4.L = 2.451222462901085e-03
+    TL5.L = 2.40442469972932e-03
+    TL6.L = 2.389711663764534e-03
+
+SP Optim1[1].SP1[40] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=40  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #40:
+  CurrentEF: 0.225290721054881
+  Optimization variables:
+    TL4.L = 2.430725938566212e-03
+    TL5.L = 2.409886847797817e-03
+    TL6.L = 2.384087524700934e-03
+
+SP Optim1[1].SP1[83] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=83  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #83:
+  CurrentEF: 0.225279839456528
+  Optimization variables:
+    TL4.L = 2.422870122474218e-03
+    TL5.L = 2.411604979539799e-03
+    TL6.L = 2.382655526469295e-03
+
+SP Optim1[1].SP1[91] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=91  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #91:
+  CurrentEF: 0.225277678453861
+  Optimization variables:
+    TL4.L = 2.424357236315658e-03
+    TL5.L = 2.411993539919122e-03
+    TL6.L = 2.383410934460758e-03
+
+SP Optim1[1].SP1[96] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=96  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #96:
+  CurrentEF: 0.225277538669377
+  Optimization variables:
+    TL4.L = 2.425157154639235e-03
+    TL5.L = 2.411178721865117e-03
+    TL6.L = 2.383305190457909e-03
+
+SP Optim1[1].SP1[102] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=102  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #102:
+  CurrentEF: 0.225277388157975
+  Optimization variables:
+    TL4.L = 2.42325279310157e-03
+    TL5.L = 2.412255090345257e-03
+    TL6.L = 2.382756829337823e-03
+
+SP Optim1[1].SP1[108] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=108  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #108:
+  CurrentEF: 0.225277170733495
+  Optimization variables:
+    TL4.L = 2.422256809967088e-03
+    TL5.L = 2.413178525084103e-03
+    TL6.L = 2.382904468994517e-03
+
+SP Optim1[1].SP1[109] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=109  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #109:
+  CurrentEF: 0.225276982330995
+  Optimization variables:
+    TL4.L = 2.423235685474265e-03
+    TL5.L = 2.412679591937251e-03
+    TL6.L = 2.383191481977797e-03
+
+SP Optim1[1].SP1[113] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=113  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #113:
+  CurrentEF: 0.225276270499142
+  Optimization variables:
+    TL4.L = 2.424903405923138e-03
+    TL5.L = 2.411746396727988e-03
+    TL6.L = 2.383285199377269e-03
+
+SP Optim1[1].SP1[120] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=120  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #120:
+  CurrentEF: 0.225275873367286
+  Optimization variables:
+    TL4.L = 2.425166815188876e-03
+    TL5.L = 2.412253273580229e-03
+    TL6.L = 2.383686989020045e-03
+
+SP Optim1[1].SP1[121] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=121  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #121:
+  CurrentEF: 0.225275545829844
+  Optimization variables:
+    TL4.L = 2.425640553237923e-03
+    TL5.L = 2.412568102153645e-03
+    TL6.L = 2.384093513379697e-03
+
+SP Optim1[1].SP1[123] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=123  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #123:
+  CurrentEF: 0.225274852423043
+  Optimization variables:
+    TL4.L = 2.42724179158614e-03
+    TL5.L = 2.413356407283708e-03
+    TL6.L = 2.385030613296265e-03
+
+SP Optim1[1].SP1[128] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=128  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #128:
+  CurrentEF: 0.225274353484746
+  Optimization variables:
+    TL4.L = 2.428514974225885e-03
+    TL5.L = 2.412865412730263e-03
+    TL6.L = 2.385357590980776e-03
+
+SP Optim1[1].SP1[136] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=136  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #136:
+  CurrentEF: 0.225274202021659
+  Optimization variables:
+    TL4.L = 2.429149903096164e-03
+    TL5.L = 2.412613559342136e-03
+    TL6.L = 2.385534280426831e-03
+
+SP Optim1[1].SP1[139] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=139  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #139:
+  CurrentEF: 0.225274196258759
+  Optimization variables:
+    TL4.L = 2.427999013620335e-03
+    TL5.L = 2.413203174741019e-03
+    TL6.L = 2.385373940079879e-03
+
+SP Optim1[1].SP1[141] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=141  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #141:
+  CurrentEF: 0.225273910099012
+  Optimization variables:
+    TL4.L = 2.427875537923748e-03
+    TL5.L = 2.413971681176559e-03
+    TL6.L = 2.385791556262945e-03
+
+SP Optim1[1].SP1[145] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=145  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #145:
+  CurrentEF: 0.225273804431807
+  Optimization variables:
+    TL4.L = 2.427473162934418e-03
+    TL5.L = 2.414369481781029e-03
+    TL6.L = 2.385804567792207e-03
+
+SP Optim1[1].SP1[147] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=147  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #147:
+  CurrentEF: 0.225273461532575
+  Optimization variables:
+    TL4.L = 2.428108318675187e-03
+    TL5.L = 2.414824267766369e-03
+    TL6.L = 2.386207920391934e-03
+
+SP Optim1[1].SP1[219] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=219  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #219:
+  CurrentEF: 0.225271973247491
+  Optimization variables:
+    TL4.L = 2.436103650042249e-03
+    TL5.L = 2.414945022396105e-03
+    TL6.L = 2.389830126970872e-03
+
+SP Optim1[1].SP1[244] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=244  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #244:
+  CurrentEF: 0.2252699807332
+  Optimization variables:
+    TL4.L = 2.432707878292264e-03
+    TL5.L = 2.417471005323555e-03
+    TL6.L = 2.389605294052602e-03
+
+SP Optim1[1].SP1[259] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=259  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #259:
+  CurrentEF: 0.225269808225084
+  Optimization variables:
+    TL4.L = 2.433318138912411e-03
+    TL5.L = 2.418919221157671e-03
+    TL6.L = 2.390467968751188e-03
+
+SP Optim1[1].SP1[261] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=261  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #261:
+  CurrentEF: 0.22526930404454
+  Optimization variables:
+    TL4.L = 2.434739947757416e-03
+    TL5.L = 2.417581752492434e-03
+    TL6.L = 2.390525868224439e-03
+
+SP Optim1[1].SP1[268] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=268  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #268:
+  CurrentEF: 0.225269127886815
+  Optimization variables:
+    TL4.L = 2.434298808706307e-03
+    TL5.L = 2.418175227349078e-03
+    TL6.L = 2.390592430110448e-03
+
+SP Optim1[1].SP1[280] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=280  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #280:
+  CurrentEF: 0.225268456823077
+  Optimization variables:
+    TL4.L = 2.433016856520406e-03
+    TL5.L = 2.421834406761917e-03
+    TL6.L = 2.391882887725457e-03
+
+SP Optim1[1].SP1[285] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=285  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #285:
+  CurrentEF: 0.225266975277784
+  Optimization variables:
+    TL4.L = 2.432426577413276e-03
+    TL5.L = 2.426658163288865e-03
+    TL6.L = 2.394385519500847e-03
+
+SP Optim1[1].SP1[289] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=289  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #289:
+  CurrentEF: 0.225265861279675
+  Optimization variables:
+    TL4.L = 2.433187634434735e-03
+    TL5.L = 2.431714276501116e-03
+    TL6.L = 2.397210851113474e-03
+
+SP Optim1[1].SP1[296] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=296  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #296:
+  CurrentEF: 0.225264301521281
+  Optimization variables:
+    TL4.L = 2.435057248605924e-03
+    TL5.L = 2.431380179417601e-03
+    TL6.L = 2.397786217078891e-03
+
+SP Optim1[1].SP1[298] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=298  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #298:
+  CurrentEF: 0.225256399379912
+  Optimization variables:
+    TL4.L = 2.444994413789497e-03
+    TL5.L = 2.433247642596787e-03
+    TL6.L = 2.403085838097418e-03
+
+SP Optim1[1].SP1[344] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=344  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #344:
+  CurrentEF: 0.225254814506433
+  Optimization variables:
+    TL4.L = 2.446859559179637e-03
+    TL5.L = 2.435426588674044e-03
+    TL6.L = 2.404914988957765e-03
+
+SP Optim1[1].SP1[361] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=361  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #361:
+  CurrentEF: 0.225254067746168
+  Optimization variables:
+    TL4.L = 2.451493667074332e-03
+    TL5.L = 2.433270931603726e-03
+    TL6.L = 2.405777704818982e-03
+
+SP Optim1[1].SP1[394] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=394  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #394:
+  CurrentEF: 0.225253379955954
+  Optimization variables:
+    TL4.L = 2.452014678274733e-03
+    TL5.L = 2.434029002898631e-03
+    TL6.L = 2.406398840291752e-03
+
+SP Optim1[1].SP1[399] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=399  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #399:
+  CurrentEF: 0.225252344902773
+  Optimization variables:
+    TL4.L = 2.454465996206996e-03
+    TL5.L = 2.436279825203631e-03
+    TL6.L = 2.408840357107304e-03
+
+SP Optim1[1].SP1[405] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=405  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #405:
+  CurrentEF: 0.225251118989337
+  Optimization variables:
+    TL4.L = 2.451876155893917e-03
+    TL5.L = 2.437825389641979e-03
+    TL6.L = 2.408306196259454e-03
+
+SP Optim1[1].SP1[418] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=418  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #418:
+  CurrentEF: 0.22525023704149
+  Optimization variables:
+    TL4.L = 2.452656742823987e-03
+    TL5.L = 2.438939912995818e-03
+    TL6.L = 2.409393434004378e-03
+
+SP Optim1[1].SP1[420] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=420  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #420:
+  CurrentEF: 0.225247199830009
+  Optimization variables:
+    TL4.L = 2.455056092703079e-03
+    TL5.L = 2.442703611306571e-03
+    TL6.L = 2.412378166573561e-03
+
+SP Optim1[1].SP1[423] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=423  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #423:
+  CurrentEF: 0.225242089312529
+  Optimization variables:
+    TL4.L = 2.461834982359426e-03
+    TL5.L = 2.451051510998337e-03
+    TL6.L = 2.419799041169139e-03
+
+SP Optim1[1].SP1[424] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=424  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #424:
+  CurrentEF: 0.225233660143315
+  Optimization variables:
+    TL4.L = 2.46703991386694e-03
+    TL5.L = 2.459615482015137e-03
+    TL6.L = 2.426156685019566e-03
+
+SP Optim1[1].SP1[426] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=426  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #426:
+  CurrentEF: 0.225204444361608
+  Optimization variables:
+    TL4.L = 2.498443451761432e-03
+    TL5.L = 2.499182592034235e-03
+    TL6.L = 2.459876083664593e-03
+
+SP Optim1[1].SP1[427] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=427  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #427:
+  CurrentEF: 0.225172656926977
+  Optimization variables:
+    TL4.L = 2.537948833303009e-03
+    TL5.L = 2.555094766168681e-03
+    TL6.L = 2.505839417701919e-03
+
+SP Optim1[1].SP1[429] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=429  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #429:
+  CurrentEF: 0.225162885761077
+  Optimization variables:
+    TL4.L = 2.591539291595487e-03
+    TL5.L = 2.631187263034008e-03
+    TL6.L = 2.566561663563071e-03
+
+SP Optim1[1].SP1[432] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=432  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #432:
+  CurrentEF: 0.225156338305823
+  Optimization variables:
+    TL4.L = 2.626575372341137e-03
+    TL5.L = 2.679800511886927e-03
+    TL6.L = 2.606665538329526e-03
+
+SP Optim1[1].SP1[438] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=438  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #438:
+  CurrentEF: 0.225156293667928
+  Optimization variables:
+    TL4.L = 2.6425334508304e-03
+    TL5.L = 2.699277734969962e-03
+    TL6.L = 2.623412682821913e-03
+
+SP Optim1[1].SP1[440] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=440  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #440:
+  CurrentEF: 0.225152771874587
+  Optimization variables:
+    TL4.L = 2.597323510913105e-03
+    TL5.L = 2.637798802145736e-03
+    TL6.L = 2.572572830643357e-03
+
+SP Optim1[1].SP1[442] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=442  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #442:
+  CurrentEF: 0.225150579818629
+  Optimization variables:
+    TL4.L = 2.577934990576973e-03
+    TL5.L = 2.607679091364574e-03
+    TL6.L = 2.549270977101631e-03
+
+SP Optim1[1].SP1[449] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=449  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #449:
+  CurrentEF: 0.225147838765907
+  Optimization variables:
+    TL4.L = 2.622915724442916e-03
+    TL5.L = 2.673032568698178e-03
+    TL6.L = 2.601232596137262e-03
+
+SP Optim1[1].SP1[481] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=481  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #481:
+  CurrentEF: 0.225075624994395
+  Optimization variables:
+    TL4.L = 2.624627399431264e-03
+    TL5.L = 2.635291628636992e-03
+    TL6.L = 2.583912697230992e-03
+
+SP Optim1[1].SP1[529] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=529  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #529:
+  CurrentEF: 0.225068310177623
+  Optimization variables:
+    TL4.L = 2.626665103000782e-03
+    TL5.L = 2.629897659363035e-03
+    TL6.L = 2.582386246697129e-03
+
+SP Optim1[1].SP1[534] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=534  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #534:
+  CurrentEF: 0.225063741095195
+  Optimization variables:
+    TL4.L = 2.633877837960648e-03
+    TL5.L = 2.634791926458714e-03
+    TL6.L = 2.587491582943404e-03
+
+SP Optim1[1].SP1[544] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=544  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #544:
+  CurrentEF: 0.225057497143445
+  Optimization variables:
+    TL4.L = 2.636366424756554e-03
+    TL5.L = 2.632919950332446e-03
+    TL6.L = 2.587717232975114e-03
+
+SP Optim1[1].SP1[545] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=545  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #545:
+  CurrentEF: 0.225056339193697
+  Optimization variables:
+    TL4.L = 2.639831738704274e-03
+    TL5.L = 2.637001443009244e-03
+    TL6.L = 2.59186907158578e-03
+
+SP Optim1[1].SP1[552] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=552  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #552:
+  CurrentEF: 0.225048450836801
+  Optimization variables:
+    TL4.L = 2.646927804348565e-03
+    TL5.L = 2.632988529326938e-03
+    TL6.L = 2.592520693788206e-03
+
+SP Optim1[1].SP1[572] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=572  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #572:
+  CurrentEF: 0.225047578290875
+  Optimization variables:
+    TL4.L = 2.647978453023637e-03
+    TL5.L = 2.634786036346393e-03
+    TL6.L = 2.593478418749095e-03
+
+SP Optim1[1].SP1[575] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=575  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #575:
+  CurrentEF: 0.225047226219172
+  Optimization variables:
+    TL4.L = 2.6512096283847e-03
+    TL5.L = 2.631457644240394e-03
+    TL6.L = 2.593254797053101e-03
+
+SP Optim1[1].SP1[577] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=577  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #577:
+  CurrentEF: 0.225046399740952
+  Optimization variables:
+    TL4.L = 2.654740822331591e-03
+    TL5.L = 2.632116417768743e-03
+    TL6.L = 2.595011994899879e-03
+
+SP Optim1[1].SP1[578] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=578  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #578:
+  CurrentEF: 0.225044826399408
+  Optimization variables:
+    TL4.L = 2.651668673731796e-03
+    TL5.L = 2.634063106240809e-03
+    TL6.L = 2.594881998292651e-03
+
+SP Optim1[1].SP1[589] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=589  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #589:
+  CurrentEF: 0.225044767515073
+  Optimization variables:
+    TL4.L = 2.657294064932425e-03
+    TL5.L = 2.634452097484657e-03
+    TL6.L = 2.597079805809227e-03
+
+SP Optim1[1].SP1[663] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=663  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #663:
+  CurrentEF: 0.225040468782654
+  Optimization variables:
+    TL4.L = 2.657636513828809e-03
+    TL5.L = 2.637817874723484e-03
+    TL6.L = 2.599108777595935e-03
+
+SP Optim1[1].SP1[665] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=665  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #665:
+  CurrentEF: 0.225038518307714
+  Optimization variables:
+    TL4.L = 2.656365762940023e-03
+    TL5.L = 2.642916837225625e-03
+    TL6.L = 2.601200284504162e-03
+
+SP Optim1[1].SP1[667] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=667  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #667:
+  CurrentEF: 0.225032364997838
+  Optimization variables:
+    TL4.L = 2.657421340899433e-03
+    TL5.L = 2.653440457781991e-03
+    TL6.L = 2.607510726288946e-03
+
+SP Optim1[1].SP1[681] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=681  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #681:
+  CurrentEF: 0.225031537894995
+  Optimization variables:
+    TL4.L = 2.6590752305075e-03
+    TL5.L = 2.653153954025126e-03
+    TL6.L = 2.607796274493049e-03
+
+SP Optim1[1].SP1[686] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=686  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #686:
+  CurrentEF: 0.225029578101291
+  Optimization variables:
+    TL4.L = 2.664155995174967e-03
+    TL5.L = 2.648002494402309e-03
+    TL6.L = 2.607243937116181e-03
+
+SP Optim1[1].SP1[694] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=694  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #694:
+  CurrentEF: 0.225027889989598
+  Optimization variables:
+    TL4.L = 2.664193596714768e-03
+    TL5.L = 2.652232967944683e-03
+    TL6.L = 2.609785298803512e-03
+
+SP Optim1[1].SP1[695] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=695  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #695:
+  CurrentEF: 0.225026180322283
+  Optimization variables:
+    TL4.L = 2.668196195323278e-03
+    TL5.L = 2.653960822452998e-03
+    TL6.L = 2.612426234894608e-03
+
+SP Optim1[1].SP1[697] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=697  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #697:
+  CurrentEF: 0.225020759852081
+  Optimization variables:
+    TL4.L = 2.668623598960797e-03
+    TL5.L = 2.659138819407527e-03
+    TL6.L = 2.61514491359355e-03
+
+SP Optim1[1].SP1[701] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=701  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #701:
+  CurrentEF: 0.225018825269149
+  Optimization variables:
+    TL4.L = 2.674935960335123e-03
+    TL5.L = 2.661395841134781e-03
+    TL6.L = 2.619157768815205e-03
+
+SP Optim1[1].SP1[702] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=702  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #702:
+  CurrentEF: 0.225008197628896
+  Optimization variables:
+    TL4.L = 2.679031891294865e-03
+    TL5.L = 2.677191063839182e-03
+    TL6.L = 2.628961443496964e-03
+
+SP Optim1[1].SP1[714] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=714  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #714:
+  CurrentEF: 0.224999571633117
+  Optimization variables:
+    TL4.L = 2.685909419130316e-03
+    TL5.L = 2.683206898024054e-03
+    TL6.L = 2.634859544579051e-03
+
+SP Optim1[1].SP1[716] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=716  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #716:
+  CurrentEF: 0.224997171631487
+  Optimization variables:
+    TL4.L = 2.706002975661178e-03
+    TL5.L = 2.685806625029013e-03
+    TL6.L = 2.643734309746524e-03
+
+SP Optim1[1].SP1[720] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=720  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #720:
+  CurrentEF: 0.224986040086236
+  Optimization variables:
+    TL4.L = 2.704682491788126e-03
+    TL5.L = 2.686413661209988e-03
+    TL6.L = 2.64394421094826e-03
+
+SP Optim1[1].SP1[733] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=733  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #733:
+  CurrentEF: 0.224981424767726
+  Optimization variables:
+    TL4.L = 2.7018820968324e-03
+    TL5.L = 2.696972503917011e-03
+    TL6.L = 2.648756917105817e-03
+
+SP Optim1[1].SP1[737] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=737  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #737:
+  CurrentEF: 0.224978904539801
+  Optimization variables:
+    TL4.L = 2.70392086806308e-03
+    TL5.L = 2.701226046502382e-03
+    TL6.L = 2.65160872444277e-03
+
+SP Optim1[1].SP1[743] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=743  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #743:
+  CurrentEF: 0.224977987720324
+  Optimization variables:
+    TL4.L = 2.704521511736027e-03
+    TL5.L = 2.69980339670828e-03
+    TL6.L = 2.651272957791818e-03
+
+SP Optim1[1].SP1[788] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=788  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #788:
+  CurrentEF: 0.224968312332909
+  Optimization variables:
+    TL4.L = 2.71327524762078e-03
+    TL5.L = 2.7147793953779e-03
+    TL6.L = 2.662599987105367e-03
+
+SP Optim1[1].SP1[793] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=793  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #793:
+  CurrentEF: 0.224939195147564
+  Optimization variables:
+    TL4.L = 2.775624616275354e-03
+    TL5.L = 2.740511412742876e-03
+    TL6.L = 2.700426376232123e-03
+
+SP Optim1[1].SP1[797] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=797  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #797:
+  CurrentEF: 0.224931110442285
+  Optimization variables:
+    TL4.L = 2.785262981430185e-03
+    TL5.L = 2.744205400638276e-03
+    TL6.L = 2.706783466229051e-03
+
+SP Optim1[1].SP1[811] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=811  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #811:
+  CurrentEF: 0.224929352094897
+  Optimization variables:
+    TL4.L = 2.766503613277919e-03
+    TL5.L = 2.73768605998409e-03
+    TL6.L = 2.695768380177186e-03
+
+SP Optim1[1].SP1[836] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=836  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #836:
+  CurrentEF: 0.224926018218908
+  Optimization variables:
+    TL4.L = 2.762452274679448e-03
+    TL5.L = 2.736124610481424e-03
+    TL6.L = 2.693849334636218e-03
+
+SP Optim1[1].SP1[839] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=839  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #839:
+  CurrentEF: 0.224921904688323
+  Optimization variables:
+    TL4.L = 2.76028220941379e-03
+    TL5.L = 2.738640204276983e-03
+    TL6.L = 2.694351569808313e-03
+
+SP Optim1[1].SP1[844] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=844  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #844:
+  CurrentEF: 0.224917191330326
+  Optimization variables:
+    TL4.L = 2.757856331153505e-03
+    TL5.L = 2.744924994658765e-03
+    TL6.L = 2.696873151909602e-03
+
+SP Optim1[1].SP1[855] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=855  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #855:
+  CurrentEF: 0.224915314681519
+  Optimization variables:
+    TL4.L = 2.762323195246946e-03
+    TL5.L = 2.745404863125165e-03
+    TL6.L = 2.698970331576732e-03
+
+SP Optim1[1].SP1[870] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=870  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #870:
+  CurrentEF: 0.224910878777525
+  Optimization variables:
+    TL4.L = 2.765764136802084e-03
+    TL5.L = 2.749611844195187e-03
+    TL6.L = 2.702228736895749e-03
+
+SP Optim1[1].SP1[872] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=872  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #872:
+  CurrentEF: 0.224908471287549
+  Optimization variables:
+    TL4.L = 2.771962224177395e-03
+    TL5.L = 2.750208383352808e-03
+    TL6.L = 2.705317875509897e-03
+
+SP Optim1[1].SP1[881] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=881  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #881:
+  CurrentEF: 0.224907274275466
+  Optimization variables:
+    TL4.L = 2.77543795255555e-03
+    TL5.L = 2.750893992064947e-03
+    TL6.L = 2.706884586484405e-03
+
+SP Optim1[1].SP1[883] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=883  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #883:
+  CurrentEF: 0.224906563744292
+  Optimization variables:
+    TL4.L = 2.781339674473329e-03
+    TL5.L = 2.753266301187657e-03
+    TL6.L = 2.710236692868544e-03
+
+SP Optim1[1].SP1[890] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=890  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #890:
+  CurrentEF: 0.22490293088938
+  Optimization variables:
+    TL4.L = 2.777944078428752e-03
+    TL5.L = 2.754643979708852e-03
+    TL6.L = 2.710024976525353e-03
+
+SP Optim1[1].SP1[895] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=895  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #895:
+  CurrentEF: 0.224901186893316
+  Optimization variables:
+    TL4.L = 2.77897897106644e-03
+    TL5.L = 2.758338299270958e-03
+    TL6.L = 2.711998493865973e-03
+
+SP Optim1[1].SP1[898] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=898  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #898:
+  CurrentEF: 0.224897391676476
+  Optimization variables:
+    TL4.L = 2.787292894601038e-03
+    TL5.L = 2.761282028148147e-03
+    TL6.L = 2.716829406330771e-03
+
+SP Optim1[1].SP1[899] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=899  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #899:
+  CurrentEF: 0.224895213276395
+  Optimization variables:
+    TL4.L = 2.794110582397873e-03
+    TL5.L = 2.763538709930015e-03
+    TL6.L = 2.721063688848268e-03
+
+SP Optim1[1].SP1[957] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=957  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #957:
+  CurrentEF: 0.224886316539005
+  Optimization variables:
+    TL4.L = 2.791983155056381e-03
+    TL5.L = 2.768732022887361e-03
+    TL6.L = 2.722817739318115e-03
+
+SP Optim1[1].SP1[963] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=963  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #963:
+  CurrentEF: 0.2248773366346
+  Optimization variables:
+    TL4.L = 2.790845241836998e-03
+    TL5.L = 2.777379133241155e-03
+    TL6.L = 2.727446819910539e-03
+
+SP Optim1[1].SP1[988] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=988  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #988:
+  CurrentEF: 0.224876554602532
+  Optimization variables:
+    TL4.L = 2.788857790587382e-03
+    TL5.L = 2.782473211286589e-03
+    TL6.L = 2.729079992762986e-03
+
+SP Optim1[1].SP1[996] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=996  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #996:
+  CurrentEF: 0.224875880340705
+  Optimization variables:
+    TL4.L = 2.788981003650676e-03
+    TL5.L = 2.782967368374837e-03
+    TL6.L = 2.729556672335994e-03
+
+SP Optim1[1].SP1[1018] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1018  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1018:
+  CurrentEF: 0.224875759149219
+  Optimization variables:
+    TL4.L = 2.789611419357241e-03
+    TL5.L = 2.781949996604834e-03
+    TL6.L = 2.729127914770068e-03
+
+SP Optim1[1].SP1[1032] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1032  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1032:
+  CurrentEF: 0.224874257233611
+  Optimization variables:
+    TL4.L = 2.790898599374984e-03
+    TL5.L = 2.781866371428967e-03
+    TL6.L = 2.729744990572248e-03
+
+SP Optim1[1].SP1[1037] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1037  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1037:
+  CurrentEF: 0.224873794157945
+  Optimization variables:
+    TL4.L = 2.791179429950509e-03
+    TL5.L = 2.782471732847828e-03
+    TL6.L = 2.730104410770403e-03
+
+SP Optim1[1].SP1[1043] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1043  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1043:
+  CurrentEF: 0.22487338439557
+  Optimization variables:
+    TL4.L = 2.791185814378934e-03
+    TL5.L = 2.783692209240602e-03
+    TL6.L = 2.730773484778951e-03
+
+SP Optim1[1].SP1[1047] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1047  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1047:
+  CurrentEF: 0.224873205129051
+  Optimization variables:
+    TL4.L = 2.791834539584056e-03
+    TL5.L = 2.783896570737106e-03
+    TL6.L = 2.731037430681055e-03
+
+SP Optim1[1].SP1[1049] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1049  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1049:
+  CurrentEF: 0.224872944976131
+  Optimization variables:
+    TL4.L = 2.791784320523469e-03
+    TL5.L = 2.783403868014594e-03
+    TL6.L = 2.730922910460089e-03
+
+SP Optim1[1].SP1[1127] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1127  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1127:
+  CurrentEF: 0.224871432613818
+  Optimization variables:
+    TL4.L = 2.793688416608701e-03
+    TL5.L = 2.784400261449667e-03
+    TL6.L = 2.732310737277313e-03
+
+SP Optim1[1].SP1[1128] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1128  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1128:
+  CurrentEF: 0.224870834669182
+  Optimization variables:
+    TL4.L = 2.793817981573177e-03
+    TL5.L = 2.784396616758512e-03
+    TL6.L = 2.732287114484808e-03
+
+SP Optim1[1].SP1[1135] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1135  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1135:
+  CurrentEF: 0.224869736220552
+  Optimization variables:
+    TL4.L = 2.795539724354094e-03
+    TL5.L = 2.78525860781354e-03
+    TL6.L = 2.733217368829466e-03
+
+SP Optim1[1].SP1[1138] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1138  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1138:
+  CurrentEF: 0.224866949962133
+  Optimization variables:
+    TL4.L = 2.797302935723618e-03
+    TL5.L = 2.786544953299287e-03
+    TL6.L = 2.734795126093797e-03
+
+SP Optim1[1].SP1[1149] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1149  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1149:
+  CurrentEF: 0.224866469487689
+  Optimization variables:
+    TL4.L = 2.797708491137882e-03
+    TL5.L = 2.787066945817431e-03
+    TL6.L = 2.735263917484392e-03
+
+SP Optim1[1].SP1[1152] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1152  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1152:
+  CurrentEF: 0.224866023511629
+  Optimization variables:
+    TL4.L = 2.797523836501256e-03
+    TL5.L = 2.788605643515173e-03
+    TL6.L = 2.735883274018688e-03
+
+SP Optim1[1].SP1[1160] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1160  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1160:
+  CurrentEF: 0.22486581025645
+  Optimization variables:
+    TL4.L = 2.799016732726286e-03
+    TL5.L = 2.790596450508701e-03
+    TL6.L = 2.737849444872758e-03
+
+SP Optim1[1].SP1[1163] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1163  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1163:
+  CurrentEF: 0.224864011413214
+  Optimization variables:
+    TL4.L = 2.799184287597307e-03
+    TL5.L = 2.789675061769803e-03
+    TL6.L = 2.737187437084228e-03
+
+SP Optim1[1].SP1[1169] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1169  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1169:
+  CurrentEF: 0.224863083323907
+  Optimization variables:
+    TL4.L = 2.800610735678138e-03
+    TL5.L = 2.791141888555393e-03
+    TL6.L = 2.738699201241238e-03
+
+SP Optim1[1].SP1[1175] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1175  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1175:
+  CurrentEF: 0.224861302023219
+  Optimization variables:
+    TL4.L = 2.801930895613406e-03
+    TL5.L = 2.791850804552849e-03
+    TL6.L = 2.739319805201804e-03
+
+SP Optim1[1].SP1[1176] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1176  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1176:
+  CurrentEF: 0.224858015352622
+  Optimization variables:
+    TL4.L = 2.805365340185765e-03
+    TL5.L = 2.792563332132439e-03
+    TL6.L = 2.741133037698111e-03
+
+SP Optim1[1].SP1[1177] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1177  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1177:
+  CurrentEF: 0.224853026314802
+  Optimization variables:
+    TL4.L = 2.814201842479045e-03
+    TL5.L = 2.797781183817287e-03
+    TL6.L = 2.747810656688254e-03
+
+SP Optim1[1].SP1[1178] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1178  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1178:
+  CurrentEF: 0.224838956933191
+  Optimization variables:
+    TL4.L = 2.83410159645851e-03
+    TL5.L = 2.806496816564417e-03
+    TL6.L = 2.759804501308226e-03
+
+SP Optim1[1].SP1[1180] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1180  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1180:
+  CurrentEF: 0.22483638288654
+  Optimization variables:
+    TL4.L = 2.832818770595314e-03
+    TL5.L = 2.807789552763854e-03
+    TL6.L = 2.760141340024722e-03
+
+SP Optim1[1].SP1[1181] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1181  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1181:
+  CurrentEF: 0.224829820796699
+  Optimization variables:
+    TL4.L = 2.849869306213635e-03
+    TL5.L = 2.816832047443624e-03
+    TL6.L = 2.771417226864796e-03
+
+SP Optim1[1].SP1[1184] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1184  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1184:
+  CurrentEF: 0.224824851690037
+  Optimization variables:
+    TL4.L = 2.840512707777927e-03
+    TL5.L = 2.817551232723243e-03
+    TL6.L = 2.768613205207261e-03
+
+SP Optim1[1].SP1[1188] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1188  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1188:
+  CurrentEF: 0.224824757513409
+  Optimization variables:
+    TL4.L = 2.832807020660456e-03
+    TL5.L = 2.817526703010042e-03
+    TL6.L = 2.765430276281197e-03
+
+SP Optim1[1].SP1[1195] <Insert_Patch_Antenna_lib:Pi_patch2:schematic>  optIter=1195  freq=(2 GHz->3 GHz)
+
+Iteration/Trial #1195:
+  CurrentEF: 0.224823817771267
+  Optimization variables:
+    TL4.L = 2.838860001135285e-03
+    TL5.L = 2.81823102500114e-03
+    TL6.L = 2.768354287934496e-03
+Optim1[1] reached the iteration limit. 
+
+Resource usage:
+  Total stopwatch time     =   155.73 seconds.
+

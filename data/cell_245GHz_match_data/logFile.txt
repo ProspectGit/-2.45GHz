@@ -1,0 +1,23 @@
+
+hpeesofsim (*) 572.shp Mar 28 2023, MINT version 5
+    (64-bit windows built: Tue Mar 28, 2023 23:58:00 +0000)
+
+
+***** Simulation started at Fri Jan 24 15:39:56 2025
+      Running on host: "LAPTOP-PUB0EK4L"
+      In Directory: "D:\Program Files (x86)\ADS2023\Insert_Patch_Antenna_wrk\data"
+      Process ID: 21280
+
+Warning detected by hpeesofsim during circuit set up.
+    Capacitor `DA_SmithChartMatch1.C1' C=-6.48306e-13 is negative.
+
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with no DC path to ground (topology corrected): 2
+
+
+SP SP1[1] <Insert_Patch_Antenna_lib:cell_245GHz_match:schematic>   freq=(2 GHz->3 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.91 seconds.
+

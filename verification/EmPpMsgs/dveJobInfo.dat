@@ -1,0 +1,5 @@
+jobName=EmPpMsgs
+jobType=emprep
+designName=Insert_Patch_Antenna_lib:cell_2_pi:layout
+ruleFilePath=
+addInfo="EM preprocessor messages displayed as DRC errors"

@@ -1,0 +1,39 @@
+; Top Design: "Insert_Patch_Antenna_lib:Pi_patch2:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=yes TopDesignName="Insert_Patch_Antenna_lib:Pi_patch2:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+MLOC2:TL1  N__5 Subst="MSub1" W=1.5 mm notune{ 0.75 mm to 2.25 mm by 0.15 mm } L=12.18 mm notune{ 2 mm to 20 mm by 0.01 mm } noopt{ 2 mm to 20 mm } Wall1=2.5e+28 mm notune{ 1.25e+28 mm to 3.75e+28 mm by 2.5e+27 mm } Wall2=2.5e+28 mm notune{ 1.25e+28 mm to 3.75e+28 mm by 2.5e+27 mm } Mod=1 
+MLIN2:TL2  N__5 N__1 Subst="MSub1" W=1.5 mm notune{ 0.75 mm to 2.25 mm by 0.15 mm } L=15.888 mm notune{ 2 mm to 20 mm by 0.01 mm } noopt{ 2 mm to 20 mm } Wall1=2.5e+28 mm notune{ 1.25e+28 mm to 3.75e+28 mm by 2.5e+27 mm } Wall2=2.5e+28 mm notune{ 1.25e+28 mm to 3.75e+28 mm by 2.5e+27 mm } Mod=1 
+R:R1  N__1 N__2 R=61.345 Ohm notune{ 30.7 Ohm to 92 Ohm by 6.13 Ohm } Noise=yes 
+C:C1  N__2 0 C=0.848 pF notune{ 0.424 pF to 1.27 pF by 0.0848 pF } 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 SPSS_WSP=yes \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=2 GHz Stop=3 GHz Step=0.001 GHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+#load "python","LinearCollapse"
+Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
+model MSub1 MSUB H=1.5 mm notune{ 0.75 mm to 2.25 mm by 0.15 mm } Er=2.65 notune{ 1.32 to 3.97 by 0.265 } Mur=1 notune{ 0.5 to 1.5 by 0.1 } Cond=5.88e7 notune{ 2.94e+07 to 8.82e+07 by 5.88e+06 } Hu=1e+33 mm notune{ 5e+32 mm to 1.5e+33 mm by 1e+32 mm } T=0.035 mm notune{ 0 mm to 0 mm by 0 mm } TanD=1e-4 notune{ 5e-05 to 0.00015 by 1e-05 } Rough=0 mm notune{ 0 mm to 0 mm by 0 mm } DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz notune{ 0.5 GHz to 1.5 GHz by 0.1 GHz } LowFreqForTanD=1.0 kHz notune{ 0.5 kHz to 1.5 kHz by 0.1 kHz } HighFreqForTanD=1.0 THz notune{ 0.5 THz to 1.5 THz by 0.1 THz } RoughnessModel=2 
+OptimGoal:OptimGoal1 Expr="dB(S(1,1))" SimInstanceName="SP1" Weight=1 \
+IndepVar[1]="freq" \
+SpecLimitLine[1]="OptimGoal1_limit1" SpecLimitLine[2]="OptimGoal1_limit2" SpecLimitLine[3]="OptimGoal1_limit3" 
+SpecLimitLine:"OptimGoal1_limit1" Type="LessThan" Max=-60 Weight=1.0 \
+IndepVar[1]="freq" IndepMin[1]=2.45e+09 IndepMax[1]=2.45e+09 
+SpecLimitLine:"OptimGoal1_limit2" Type="LessThan" Max=-20 Weight=1 \
+IndepVar[1]="freq" IndepMin[1]=2.2e+09 IndepMax[1]=2.2e+09 
+SpecLimitLine:"OptimGoal1_limit3" Type="LessThan" Max=-20 Weight=1 \
+IndepVar[1]="freq" IndepMin[1]=2.7e+09 IndepMax[1]=2.7e+09 
+
+Optim:"Optim1" OptimType="random" ErrorForm="L2" SAProgressReport=0 MaxIters=1200 P=2 DesiredError=0.0 StatusLevel=4 FinalAnalysis="None" NormalizeGoals=yes SetBestValues=yes SaveSolns=yes SaveGoals=yes SaveOptimVars=yes UpdateDataset=yes SaveNominal=no SaveAllIterations=no UseAllOptVars=yes UseAllGoals=yes SaveCurrentEF=no InitialTempControlMode=0 SANumTrialsPerIter=10 NumShootsPerIter=20 SATempControlAlpha=0.8 EnableCockpit=yes NormalizeError=yes SaveAllTrials=no UseAdvTermCriteria=no CostRelativeTol=1.0e-8 LimitOfContSmallImprovement=5 
+
+Port:Term1  N__3 0 Num=1 Z=50 Ohm notune{ 25 Ohm to 75 Ohm by 5 Ohm } Noise=yes 
+MLOC2:TL4  N__3 Subst="MSub1" W=1.5 mm L=2.5 mm opt{ 1 mm to 20 mm } Wall1=2.5e+28 mm noopt{ 1.25e+28 mm to 3.75e+28 mm } Wall2=2.5e+28 mm Mod=1 
+MLOC2:TL5  N__5 Subst="MSub1" W=1.5 mm L=2.5 mm opt{ 1 mm to 20 mm } Wall1=2.5e+28 mm Wall2=2.5e+28 mm Mod=1 
+MLIN2:TL6  N__3 N__5 Subst="MSub1" W=1.5 mm L=2.5 mm opt{ 1 mm to 20 mm } Wall1=2.5e+28 mm Wall2=2.5e+28 mm Mod=1 

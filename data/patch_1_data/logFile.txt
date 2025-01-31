@@ -1,0 +1,17 @@
+
+hpeesofsim (*) 572.shp Mar 28 2023, MINT version 5
+    (64-bit windows built: Tue Mar 28, 2023 23:58:00 +0000)
+
+
+***** Simulation started at Sun Jan 26 13:53:39 2025
+      Running on host: "LAPTOP-PUB0EK4L"
+      In Directory: "D:\Program Files (x86)\ADS2023\Insert_Patch_Antenna_wrk\data"
+      Process ID: 27044
+
+
+SP SP1[1] <Insert_Patch_Antenna_lib:patch_1:schematic>   freq=(2 GHz->3 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.91 seconds.
+
